@@ -24,7 +24,7 @@ This repository currently hosts the annotation manual and citation metadata asso
 
 ## License
 
-License information will be added after confirmation by the project team. Until then, no permission beyond GitHub's applicable terms should be inferred for reuse of repository materials.
+This repository is released under the [Creative Commons CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ## Contact
 
