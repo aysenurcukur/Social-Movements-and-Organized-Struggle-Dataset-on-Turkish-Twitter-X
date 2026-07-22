@@ -8,9 +8,9 @@ The SOMOS dataset is a computational inventory of social movement organizations 
 
 The annotation manual is available in three formats:
 
-- [Read the manual on GitHub](documentation/SOMOS_Annotation_Manual.md)
-- [Download the PDF](documentation/SOMOS_Annotation_Manual.pdf)
-- [Download the Word document](documentation/SOMOS_Annotation_Manual.docx)
+- [Read the manual on GitHub](SOMOS_Annotation_Manual.md)
+- [Download the PDF](SOMOS_Annotation_Manual.pdf)
+- [Download the Word document](SOMOS_Annotation_Manual.docx)
 
 ## Dataset and citation
 
