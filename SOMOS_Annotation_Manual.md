@@ -8,7 +8,7 @@
 
 **Definitions and Conceptual Framework**
 
-> Kına, Fuat; Akdeniz, Reyta; Ekmen, Helin Yaren; Cebe, Ali; Çukur, Ayşenur; Avran, Rabia; Kosova, Ayşe Merve; Gündüz, Hüsnü Berk; Karataş, Mehmet Ali; Türkoğlu, Alp Ata, 2026, “*Social Movements and Organized Struggle Dataset on Turkish Twitter/X*”, https://doi.org/10.7910/DVN/PL1DC5, Harvard Dataverse, V1.
+> Kına, Fuat; Akdeniz, Reyta; Ekmen, Helin Yaren; Cebe, Ali; Çukur, Ayşenur; Avran, Rabia; Kosova, Ayşe Merve; Gündüz, Hüsnü Berk; Karataş, Mehmet Ali; Türkoğlu, Alp Ata, 2026, “*Social Movements and Organized Struggle Dataset on Turkish Twitter/X*”, https://doi.org/10.7910/DVN/PL1DC5, Harvard Dataverse, V2.
 
 **Contents**
 
