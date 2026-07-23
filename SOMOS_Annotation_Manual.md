@@ -1,94 +1,22 @@
-**The SOMOS Dataset**
+# The SOMOS Dataset
 
-*Social Movements and Organized Struggle*
+*Social Movements and Organized Struggle on Turkish Twitter / X*
 
-*on Turkish Twitter / X*
+## Annotation Manual
 
-**ANNOTATION MANUAL**
-
-**Definitions and Conceptual Framework**
+*Definitions and Conceptual Framework*
 
 > Kına, Fuat; Akdeniz, Reyta; Ekmen, Helin Yaren; Cebe, Ali; Çukur, Ayşenur; Avran, Rabia; Kosova, Ayşe Merve; Gündüz, Hüsnü Berk; Karataş, Mehmet Ali; Türkoğlu, Alp Ata, 2026, “*Social Movements and Organized Struggle Dataset on Turkish Twitter/X*”, https://doi.org/10.7910/DVN/PL1DC5, Harvard Dataverse, V2.
 
-**Contents**
+## Contents
 
-**1. About This Manual** **3**
-
-**2. The Social Movement Organization Model** **3**
-
-> Inclusion 3
->
-> Out-of-scope accounts 4
->
-> Screening order and calibration 4
-
-**3. Organizational Type** **4**
-
-> Labor union 5
->
-> Professional organization 5
->
-> Party 5
->
-> Foundation 5
->
-> Association 5
->
-> Student or youth organization 6
->
-> Citizen collective 6
->
-> Platform or umbrella formation 6
-
-**4. Inequality Axis** **6**
-
-> Class 6
->
-> Ethnic 7
->
-> Gender 7
->
-> Nation 7
-
-**5. Ideology** **7**
-
-> Islamism 8
->
-> Conservatism 8
->
-> Kemalism 8
->
-> Turkish nationalism 8
->
-> Social democracy 8
->
-> Socialism or Marxism 8
->
-> Liberalism 9
->
-> Kurdish movement 9
->
-> Feminism 9
->
-> LGBTQ+ 9
->
-> Ecology or environment 9
->
-> Natalism 9
->
-> Alevism 9
->
-> Unclear 9
-
-**6. Movement Scope** **9**
-
-> Programmatic 10
->
-> Thematic 10
->
-> Single-demand 10
-
-**7. Location** **10**
+- [1. About This Manual](#1-about-this-manual)
+- [2. The Social Movement Organization Model](#2-the-social-movement-organization-model)
+- [3. Organizational Type](#3-organizational-type)
+- [4. Inequality Axis](#4-inequality-axis)
+- [5. Ideology](#5-ideology)
+- [6. Movement Scope](#6-movement-scope)
+- [7. Location](#7-location)
 
 # 1. About This Manual
 
@@ -98,7 +26,7 @@ All annotation in the SOMOS pipeline operates on two fields of each account, the
 
 Several conventions recur across modules and are stated once here. Most classification modules assign a primary label and, where a second category genuinely applies, an optional secondary label, so that hybrid organizations can be described without forcing a single form; a secondary label is not attached as a matter of routine. Most modules also follow an instruction-driven, stepwise decision procedure and attach a confidence level to the result, and some record a short free-text rationale. A further principle concerns branches: when an account is a branch, affiliated group, local office, or youth or student wing of a larger, already established organization, the parent organization is coded first and supplies the primary label, and the branch-specific character is recorded as the secondary label. Module-specific formulations of these conventions are given in the sections below.
 
-# 2. The Social Movement Organization
+# 2. The Social Movement Organization Model
 
 The database rests on an explicit definition of its unit. Social movement organizations are organized formations that emerge and evolve from grassroots initiative, articulate public claims against prevailing authority structures through demands grounded in a principled framework, and pursue identifiable goals to realize those claims; in doing so, they coordinate collective action and sustain the continuity of an opposition over time. The detection stage translates this definition into a single binary judgement, in which an account either is or is not an SMO. Every variable documented in the sections that follow applies only to accounts that pass this stage.
 
