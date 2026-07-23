@@ -26,6 +26,3 @@ This repository currently hosts the annotation manual and citation metadata asso
 
 This repository is released under the [Creative Commons CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
-## Contact
-
-Questions and proposed corrections can be submitted through this repository's Issues section.
